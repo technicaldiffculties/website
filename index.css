@@ -24,6 +24,7 @@ header {
 
 .title {
     font-size:  32px;
+    padding: 0 20px;
 }
 
 .title:hover {
@@ -44,7 +45,7 @@ p {
 }
 
 footer {
-    padding: 40px 0px;
+    padding: 40px 20px;
 }
 
 .copyright {
