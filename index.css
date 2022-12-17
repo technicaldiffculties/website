@@ -25,15 +25,15 @@ header {
 .title {
     font-size:  25px;
     padding: 0 20px;
-    color: #666666;
+    color: #FFFFFF;
 }
 
 .title a {
-    color: #666666;
+    color: #FFFFFF;
 }
 
 .title:hover {
-    color: #4F4F4F;
+    color: #000000;
 }
 
 main {
