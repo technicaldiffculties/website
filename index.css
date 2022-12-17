@@ -13,13 +13,13 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
     color: #CCCCCC;
-    background: #00aa52;
+    background: #00a7f6;
 }
 
 header {
     padding: 20px 0;
-    background: #00ad55;
-    border-bottom: #00aa65;
+    background: #00b7f6;
+    border-bottom: #00a7f0;
 }
 
 .title {
